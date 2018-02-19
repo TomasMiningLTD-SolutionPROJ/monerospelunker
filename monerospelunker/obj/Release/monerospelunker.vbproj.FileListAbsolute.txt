@@ -20,3 +20,11 @@ E:\src\monerospelunker\monerospelunker\monerospelunker\obj\Release\monerospelunk
 E:\src\monerospelunker\monerospelunker\monerospelunker\obj\Release\monerospelunker.Form1.resources
 E:\src\monerospelunker\monerospelunker\monerospelunker\obj\Release\monerospelunker.Resources.resources
 E:\src\monerospelunker\monerospelunker\monerospelunker\obj\Release\monerospelunker.vbproj.GenerateResource.Cache
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.vbprojResolveAssemblyReference.cache
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.Form1.resources
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.Resources.resources
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.vbproj.GenerateResource.Cache
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.vbproj.CoreCompileInputs.cache
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.exe
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.xml
+C:\Users\tlev4\Source\Repos\monerospelunker\monerospelunker\obj\Release\monerospelunker.pdb

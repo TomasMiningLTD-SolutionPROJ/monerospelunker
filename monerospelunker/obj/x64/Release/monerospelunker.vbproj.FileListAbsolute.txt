@@ -1,0 +1,4 @@
+C:\Users\tlev4\source\repos\monerospelunker\monerospelunker\obj\x64\Release\monerospelunker.Form1.resources
+C:\Users\tlev4\source\repos\monerospelunker\monerospelunker\obj\x64\Release\monerospelunker.Resources.resources
+C:\Users\tlev4\source\repos\monerospelunker\monerospelunker\obj\x64\Release\monerospelunker.vbproj.GenerateResource.Cache
+C:\Users\tlev4\source\repos\monerospelunker\monerospelunker\obj\x64\Release\monerospelunker.vbproj.CoreCompileInputs.cache
